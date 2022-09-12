@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card{
+  margin-bottom: 10px;
+  margin: 10px;
+  border: 0ch;
+}
+
+.col-sm-6{
+  background-color: lightgray;
+}
+
+.card-inner{
+  background-color: lightgray;
+}
